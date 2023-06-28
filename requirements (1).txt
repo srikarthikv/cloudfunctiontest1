@@ -1,0 +1,11 @@
+azure-identity==1.13.0
+azure-search-documents
+ipykernel==6.13.0
+openai==0.27.7
+faiss-cpu==1.7.4
+langchain==0.0.158
+tenacity==8.2.2	
+llama_index==0.6.14
+gpt_index==0.6.14
+flask==2.3.2
+pyodbc==4.0.39
